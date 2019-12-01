@@ -53,7 +53,7 @@ namespace EjercicioWhile02
             }
                                    
             Console.ReadKey();
-            // También se puede hacer con do - while
+            // También se puede hacer con do - while 
         }
     }
 }
